@@ -1,0 +1,10 @@
+C:\Users\Fabio\source\repos\Acerte o número\Acerte o número\bin\Debug\Acerte o número.exe.config
+C:\Users\Fabio\source\repos\Acerte o número\Acerte o número\bin\Debug\Acerte o número.exe
+C:\Users\Fabio\source\repos\Acerte o número\Acerte o número\bin\Debug\Acerte o número.pdb
+C:\Users\Fabio\source\repos\Acerte o número\Acerte o número\obj\Debug\Acerte o número.csproj.AssemblyReference.cache
+C:\Users\Fabio\source\repos\Acerte o número\Acerte o número\obj\Debug\Acerte_o_número.Form1.resources
+C:\Users\Fabio\source\repos\Acerte o número\Acerte o número\obj\Debug\Acerte_o_número.Properties.Resources.resources
+C:\Users\Fabio\source\repos\Acerte o número\Acerte o número\obj\Debug\Acerte o número.csproj.GenerateResource.cache
+C:\Users\Fabio\source\repos\Acerte o número\Acerte o número\obj\Debug\Acerte o número.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\Acerte o número\Acerte o número\obj\Debug\Acerte o número.exe
+C:\Users\Fabio\source\repos\Acerte o número\Acerte o número\obj\Debug\Acerte o número.pdb
